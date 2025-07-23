@@ -11,5 +11,5 @@ logs/
 **/venv/
 **/__pycache__/
 
-/src/assets/*
+/src/assets/uploads/*
 !/src/assets/
